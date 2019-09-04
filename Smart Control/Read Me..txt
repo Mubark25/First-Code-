@@ -7,6 +7,5 @@ LCD 16 x 4
 Proteus for Simulation
 
 Working:
-Switching between 4 lines on the priority base system (Solar, Electric supplier, Generator, UPS).On the First priorty, I set solar when it cut down the circuit 
-will switch to Electric supplier power and our main supply does not turn off. This programme basically switch between four power line I mention comments so hope everyone understands easily  
+Switching between 2 lines on the priority base (Power supply and battery ).On the First priorty, I set power supply when it cut down the circuit will switch to Battery power and our main supply does not turn off. This programme basically switch between 2 power line I mention in comments the steps of programming so hope everyone understands easily.
 
